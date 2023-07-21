@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LicenseModel>
+  <NoOfBranch>1</NoOfBranch>
+  <GlobalExpiryTime>2085-6-15</GlobalExpiryTime>
+  <ActiveModules>    
+	<ActiveModule>
+		<Name>RESTAURANT</Name>    
+	</ActiveModule> 
+	<ActiveModule>
+		<Name>USER</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>HCM</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>PARK</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>HOTEL</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>BANQUET</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>ACCOUNT</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>SCHOOL</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>CRM</Name>    
+	</ActiveModule>
+	<ActiveModule>
+		<Name>INVENTORY</Name>    
+	</ActiveModule>
+		<ActiveModule>
+		<Name>CASINO</Name>    
+	</ActiveModule>
+  </ActiveModules>
+</LicenseModel>
